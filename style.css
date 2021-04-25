@@ -1,0 +1,28 @@
+.origami{
+    flex:display;
+    justify-content: space-evenly;
+}
+
+h1{
+    border:solid;
+margin: 50px;
+padding: 5%;
+background-color:lightblue;
+}
+
+.origami{
+    background-color:#e0ffff;
+
+}
+
+.link{
+    a:link{
+        color:0;
+    }
+    
+
+    a:visited{
+        color: lime;
+    }
+
+}
